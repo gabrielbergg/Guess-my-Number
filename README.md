@@ -1,6 +1,6 @@
 # Guess-my-Number
 
-Esse filtro começou a fazer sucesso no TikTok e eu decidi criar uma versão dele em Java.
+Esse filtro começou a fazer sucesso no TikTok e eu criei uma versão dele em Java.
 
 ## Como funciona: 
 * jogador deverá "descobrir" um número de 4 dígitos escolhido aleatoriamente pelo sistema.
